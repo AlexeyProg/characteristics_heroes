@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/axe_logo.jpg</file>
+        <file>images/abaddon.png</file>
+        <file>images/alchemist.png</file>
+        <file>images/anti-mage.jpg</file>
+        <file>images/apparat.jpg</file>
+        <file>images/arc.jpg</file>
+    </qresource>
+</RCC>
